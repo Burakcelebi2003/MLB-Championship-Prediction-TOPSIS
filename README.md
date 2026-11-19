@@ -1,2 +1,3 @@
 # mlb-championship-prediction-topsis
 MLB 2015–2025 regular-season performance analysis, regression and TOPSIS-based championship evaluation.
+Bu proje, 2015–2024 MLB sezonlarının normal sezon performans verilerini inceleyerek regresyon ve korelasyon analizleri ile 2025 sezonu için metrik projeksiyonları üretmektedir. Elde edilen regresyon sonuçları, korelasyon kıyasları ve maksimum oyuncu katkısı ölçütleri, ağırlıklandırılmış çok kriterli karar verme yöntemi olan TOPSIS ile birleştirilerek takımlar şampiyonluk yakınlığına göre sıralanmıştır. Analiz sonucunda OPS, OPS Against, WAR, WAR Pitcher ve en iyi oyuncunun galibiyete etkisi gibi kriterler üzerinden 30 takım değerlendirilmiş ve 2025 sezonu için en yüksek TOPSIS skoruna ulaşan aday belirlenmiştir.
